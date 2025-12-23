@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": []
+    #include<iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cout<<"Enter any number :";
+    cin>>n;
+    if (n %2 == 0)
+    {
+    cout<<"even";
+    }
+    return 0;
+} 
+}
