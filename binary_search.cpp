@@ -1,3 +1,4 @@
+//             Binary Search algorithm is used to find targeted value in sorted array. this Searching technique only works when array is sorted.
 #include <iostream>
 using namespace std;
 
