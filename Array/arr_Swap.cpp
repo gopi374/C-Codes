@@ -21,7 +21,7 @@ int main() {
     cout<<"Enter the new elements :";
     cin>>arr[s];
     cout<<"the new array is ";
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i=i+1)
     {
         cout<<arr[i]<<" ";
     }
